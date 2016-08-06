@@ -1,5 +1,5 @@
 {
-  "name": "linkedin-scraper2",
+  "name": "linkedin-scraper3",
   "version": "2.0.0",
   "description": "A scraper for LinkedIn, give us a linkedin profile URL and we'll give you a nice data structure",
   "main": "index.js",
