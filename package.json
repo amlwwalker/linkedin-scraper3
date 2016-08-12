@@ -21,7 +21,7 @@
   "homepage": "https://github.com/danieljoppi/node-linkedin-scraper2#readme",
   "dependencies": {
     "jquery": "^2.1.3",
-    "jsdom": "github:danieljoppi/jsdom",
+    "jsdom": "git+https://github.com/danieljoppi/jsdom.git",
     "q": "^1.4.1"
   },
   "devDependencies": {
